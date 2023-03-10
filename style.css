@@ -17,7 +17,7 @@ body{
 }
 .main{
     width: 100%;
-    background: linear-gradient(to top, rgba(0,0,0,0.5)50%,rgba(0,0,0,0.5)50%), url(file:///C:/Users/hoosi/OneDrive/Bureau/zz/photo_2023-03-10_11-45-13.jpg);
+    background: linear-gradient(to top, rgba(0,0,0,0.5)50%,rgba(0,0,0,0.5)50%), url(photo_2023-03-10_11-45-13.jpg);
     background-position: center;
     background-size: cover;
     height: 100vh;
